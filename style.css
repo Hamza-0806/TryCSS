@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+h1{
+    color: whitesmoke;
+    font-family: 'Libre Baskerville',serif;
+    text-transform: uppercase;
+     text-align: center;
+}
+p{
+    color: red;
+    font-family: "Bitcount Prop Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+     text-align: center;
+}
+#jorking{
+    width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+ 
+  
+}
+.motivation-img {
+    display: block;
+    margin:0 auto ;
+  border: 5px solid red;
+  max-width: 100%;
+}
+a{
+    color: lightblue;
+}
+#cos{
+    font-size: xx-large;
+}
